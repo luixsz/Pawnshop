@@ -28,9 +28,9 @@
       "item_description": "ring",
       "principal_amount": 1000.0,
       "pawn_date": "2025-01-01",
-      "renewed_date": "2025-05-01",
-      "maturity_date": "2025-05-31",
-      "forfeit_date": "2025-08-29",
+      "renewed_date": "2025-06-20",
+      "maturity_date": "2025-07-20",
+      "forfeit_date": "2025-10-18",
       "status": "ACTIVE"
     }
   ],

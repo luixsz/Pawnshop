@@ -58,11 +58,11 @@ def compute_interest(principal: float, days: int):
     if days <= 30:
         total_rate = 0.04
     elif days <= 60:
-        total_rate = 0.04 + 0.08
+        total_rate = 0.08
     elif days <= 90:
-        total_rate = 0.04 + 0.08 + 0.15
+        total_rate = 0.15
     else:
-        total_rate = 0.04 + 0.08 + 0.15 + 0.20
+        total_rate = 0.20
 
     return principal * total_rate
 
